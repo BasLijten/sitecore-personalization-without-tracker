@@ -1,0 +1,13 @@
+D:\git\sitecore-personalization-without-tracker\Foundation\personalization\code\Foundation.Personalization\bin\BasLijten.Foundation.Personalization.dll.config
+D:\git\sitecore-personalization-without-tracker\Foundation\personalization\code\Foundation.Personalization\bin\BasLijten.Foundation.Personalization.dll
+D:\git\sitecore-personalization-without-tracker\Foundation\personalization\code\Foundation.Personalization\bin\BasLijten.Foundation.Personalization.pdb
+D:\git\sitecore-personalization-without-tracker\Foundation\personalization\code\Foundation.Personalization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\git\sitecore-personalization-without-tracker\Foundation\personalization\code\Foundation.Personalization\bin\Sitecore.Analytics.dll
+D:\git\sitecore-personalization-without-tracker\Foundation\personalization\code\Foundation.Personalization\bin\Sitecore.Kernel.dll
+D:\git\sitecore-personalization-without-tracker\Foundation\personalization\code\Foundation.Personalization\bin\Sitecore.Mvc.Analytics.dll
+D:\git\sitecore-personalization-without-tracker\Foundation\personalization\code\Foundation.Personalization\bin\Sitecore.Mvc.dll
+D:\git\sitecore-personalization-without-tracker\Foundation\personalization\code\Foundation.Personalization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\git\sitecore-personalization-without-tracker\Foundation\personalization\code\Foundation.Personalization\obj\Debug\Foundation.Personalization.csprojResolveAssemblyReference.cache
+D:\git\sitecore-personalization-without-tracker\Foundation\personalization\code\Foundation.Personalization\obj\Debug\Foundation.Personalization.csproj.CoreCompileInputs.cache
+D:\git\sitecore-personalization-without-tracker\Foundation\personalization\code\Foundation.Personalization\obj\Debug\BasLijten.Foundation.Personalization.dll
+D:\git\sitecore-personalization-without-tracker\Foundation\personalization\code\Foundation.Personalization\obj\Debug\BasLijten.Foundation.Personalization.pdb
